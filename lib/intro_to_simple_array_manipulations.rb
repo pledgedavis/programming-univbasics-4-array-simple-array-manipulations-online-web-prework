@@ -48,7 +48,7 @@ return noodle.flatten
 end  
  
  def using_delete_at(array,string)
-   array.delete(1,string)
+   array.delete(string)
  end
  
  
