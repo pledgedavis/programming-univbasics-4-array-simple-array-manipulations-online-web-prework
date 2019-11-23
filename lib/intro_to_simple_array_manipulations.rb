@@ -30,7 +30,7 @@ return noodle.concat(soup)
  end
  
  def using_insert(noodle,soup)
-   noodle.insert(1)
+  return noodle.insert(1)
  end
  
  
