@@ -29,9 +29,7 @@ end
 return noodle.concat(soup)
  end
  
- def using_insert(noodle,soup)
-  return noodle.insert(1)
- end
+ def 
  
  
  
