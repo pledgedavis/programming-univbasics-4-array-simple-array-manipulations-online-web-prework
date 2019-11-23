@@ -29,7 +29,9 @@ end
 return noodle.concat(soup)
  end
  
- def 
+ def using_insert(array, item)
+  array.insert(4, item)
+end
  
  
  
